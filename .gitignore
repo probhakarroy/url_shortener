@@ -1,0 +1,6 @@
+__pycache__
+user_files
+urls.json
+keys.json
+.pytest_cache
+.vscode
